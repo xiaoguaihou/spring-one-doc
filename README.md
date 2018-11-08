@@ -1,3 +1,27 @@
+======================
+
+   * [springboot框架关于bean装配]()
+      * [1 装配的目的]()
+      * [2 实现方式]()
+         * [2.1 bean加载的解耦]()
+         * [2.2 配置参数的处理]()
+         * [2.3 xml vs java annotation]()
+      * [3 详解]()
+         * [3.0 IoC Container]()
+         * [3.1 bean的定义]()
+            * [Class的实例化]()
+            * [DI]()
+            * [Bean Scopes]()
+            * [Autowiring Mode]()
+         * [3.2 annotation-based container configuration]()
+         * [3.3 Spring inject or JSR-330]()
+         * [3.4 Java-based Container Configuration]()
+      * [4 Environment Abstraction]()
+      * [5 data binding]()
+         * [5.1 @Value]()
+         * [5.2 @ConfigurationProperties]()
+	 * [5.3 Demo]()
+	 
 # springboot框架关于bean装配
 framework这东西就是定义一套规范，使用者遵循这套规范，将会等到很大好处：加快开发效率、提高代码可维护性...
 
@@ -675,7 +699,7 @@ public class TestBean {
 
 ```
 
-5.3 Demo
+### 5.3 Demo
 - configuration file in resources direction
 
 you.yml
