@@ -20,7 +20,7 @@
       * [5 data binding](#5-data-binding)
          * [5.1 @Value](#51-value)
          * [5.2 @ConfigurationProperties](#52-configurationproperties)
-	 * [5.3 Demo](#53-demo)
+         * [5.3 Demo](#53-demo)
 	 
 
 先看[5.3 Demo](#53-demo),如果非常了解，那就不必看此篇文章了～～
