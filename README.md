@@ -22,6 +22,9 @@
          * [5.2 @ConfigurationProperties](#52-configurationproperties)
 	 * [5.3 Demo](#53-demo)
 	 
+
+先看[5.3 Demo](#53-demo),如果非常了解，那就不必看此篇文章了～～
+
 # springboot框架关于bean装配
 framework这东西就是定义一套规范，使用者遵循这套规范，将会等到很大好处：加快开发效率、提高代码可维护性...
 
